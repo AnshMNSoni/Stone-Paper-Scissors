@@ -1,4 +1,4 @@
-# Stone-Paper-Scissors Game
+# Stone-Paper-Scissors Game 🎮
 
 ### This is small effort from my side to make basic stone-paper-scissors game.
 
