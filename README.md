@@ -6,6 +6,6 @@
 
 ##### Player 1 is ofcourse you and Player 2 is Computer.
 
-So, Please play for atleast one time.
+##### So, Please play for atleast one time.
 
 #### Thankyou.
