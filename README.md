@@ -19,6 +19,10 @@
 - Final winner announcement
 - Simple and beginner-friendly code
 
+### 📸 Screenshots
+#### preview
+![image](https://github.com/user-attachments/assets/83b0af5e-936b-4edc-8e8a-73d2110e2310)
+
 ### 🙌 Contribution
 - This game is a small effort to practice and demonstrate basic programming skills.
 
